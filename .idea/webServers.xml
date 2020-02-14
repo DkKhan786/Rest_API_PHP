@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2869fcc3-d4d9-49c3-aa89-f78012802cd5" name="Handiman" url="http://autopartsdiscountcoupons.com">
+        <fileTransfer host="autopartsdiscountcoupons.com" port="21" rootFolder="/public_html/handiman/Api">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
